@@ -48,12 +48,12 @@ Email: raquelvadillom@gmail.com
   📍 Modelos: XGBoost, CatBoost, VotingClassifier  
   📍 Interpretabilidad: SHAP  
   📍 App: Streamlit  
-  📍 [Ver repositorio](#)
+  📍 [Ver repositorio](https://github.com/rvad-datascient/Proy_Impago_Hipotecas.git)
 
 - **Predicción de Pérdida de Clientes Bancarios**  
   📍 Machine Learning aplicado a retención de clientes  
   📍 Python + Streamlit  
-  📍 [Ver repositorio](#)
+  📍 [Ver repositorio](https://github.com/rvad-datascient/Proy_Perdida_clientes.git)
 
 ---
 
@@ -63,3 +63,4 @@ Email: raquelvadillom@gmail.com
 - 💡 Aprendiz de por vida  
 - 👥 Me encanta colaborar en equipos multidisciplinares  
 - 🚀 Enfocada en crear soluciones con impacto real
+
