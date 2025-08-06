@@ -93,12 +93,16 @@ Apasionada por convertir datos en decisiones y construir soluciones de Machine L
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 10px;" />
   </a>
 </p>
+
 ---
 
 ### 📫 Contacto
 
 Email: raquelvadillom@gmail.com  
-alt="https://www.linkedin.com/in/raquelvadillo" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/raquelvadillo" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
@@ -124,6 +128,7 @@ alt="https://www.linkedin.com/in/raquelvadillo" height="30" width="40" /></a>
 - 💡 Aprendiz de por vida  
 - 👥 Me encanta colaborar en equipos multidisciplinares  
 - 🚀 Enfocada en crear soluciones con impacto real
+
 
 
 
